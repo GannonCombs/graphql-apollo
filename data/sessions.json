@@ -1,0 +1,29 @@
+[
+  {
+    "id": 84473,
+    "title": "Gannon's first college class",
+    "description": "my really awesome first class",
+    "startsAt": "8:00",
+    "endsAt": "9:00",
+    "room": "Europa",
+    "day": "Wednesday"
+  },
+  {
+    "id": 84474,
+    "title": "Gannon's second college class",
+    "description": "my really lousy second class",
+    "startsAt": "8:00",
+    "endsAt": "5:00",
+    "room": "Ganymede",
+    "day": "Saturdays"
+  },
+  {
+    "id": 84475,
+    "title": "Basket Weaving 101",
+    "description": "How to work at Wendy's",
+    "startsAt": "9:00",
+    "endsAt": "11:00",
+    "room": "Phoebe",
+    "day": "Thursday"
+  }
+]

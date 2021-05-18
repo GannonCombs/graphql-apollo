@@ -1,0 +1,20 @@
+query viewerInfo {
+  sessionById(id: "84474") {
+    id
+    title
+    description
+    startsAt
+    endsAt
+    room
+    day
+  }
+  sessions(title: "Basket Weaving 101", room: "Phoebe", day: "Thursday") {
+    id
+    title
+    description
+    startsAt
+    endsAt
+    room
+    day
+  }
+}
